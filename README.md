@@ -1,5 +1,9 @@
 # Test Quad NotchFilter Library
 
+## Explain It Simply
+
+This module removes one bad shake frequency from the sensor data. It is like lowering one annoying buzzing sound so the drone can hear the real motion better.
+
 `NotchFilter` removes narrow motor-vibration bands from accel and gyro streams before AHRS and PID processing.
 
 ## Pin Map
