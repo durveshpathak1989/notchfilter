@@ -1,3 +1,10 @@
+/*
+ * Name: NotchFilter.cpp
+ * Use: Implementation of the tunable notch filter used to reduce vibration noise.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 #include "NotchFilter.h"
 
 NotchFilter::NotchFilter()
